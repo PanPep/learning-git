@@ -1,2 +1,2 @@
 print("Witaj świecie, hej hej hej ")
-print ("Jak minął dzień")
+print ("Jak minął dzień?")
